@@ -2,7 +2,7 @@
 
 
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Inform%C3%A1tica+(Ensino+M%C3%A9dio+T%C3%A9cnico);Aprendendo+Full+Stack+na+pr%C3%A1tica;Curioso+por+IA+e+automa%C3%A7%C3%A3o;Java+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+PHP+%C2%B7+SQL" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=EEstudante+de+Inform%C3%A1tica+(Ensino+M%C3%A9dio+T%C3%A9cnico);Aprendendo+Full+Stack+na+pr%C3%A1tica;Curioso+por+IA+e+automa%C3%A7%C3%A3o;Java+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+PHP+%C2%B7+SQL" alt="Typing SVG" />
 
 <br/>
 
