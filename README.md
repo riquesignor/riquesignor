@@ -27,7 +27,7 @@ Atualmente aprofundando conhecimento em **arquitetura de software**, desenvolvim
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,react,firebase,nodejs,tailwind,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,react,firebase,nodejs,tailwind,git,github,csharp,vscode&theme=dark" />
 
 </div>
 
@@ -41,6 +41,8 @@ Atualmente aprofundando conhecimento em **arquitetura de software**, desenvolvim
 | [**Arbitra Margin Tracker**](https://github.com/riquesignor/Arbitra-margin-tracker) | Plataforma de arbitragem de preços com cálculo de margem em tempo real. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 | [**Weather App**](https://github.com/riquesignor/weather-app) *(em revisão de segurança)* | App React Native com auxiliar de IA, combinando múltiplas APIs de clima. | ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [**Controle Estoque**](https://github.com/riquesignor/Controle_Estoque) *(em revisão de segurança)* | Gerenciador de estoque com controle de inventário e rastreamento de produtos. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**NotificationHub**](https://github.com/riquesignor/NotificationHub) *(Em desenvolvimento)* | Sistema centralizado de notificações multi-canal (Push, Email, Telegram) com retry automático e rastreamento de delivery. | ![csharp](https://img.shields.io/badge/-csharp-F7DF1E?style=flat-square&logo=csharp&logoColor=black) |
+
 
 <br/>
 
