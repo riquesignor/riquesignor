@@ -1,96 +1,36 @@
-# Henrique
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Henrique&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%20APIs%20%26%20AI&descAlignY=58&descSize=18" width="100%"/> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;APIs+%26+AI+Integration;Sempre+aprendendo+algo+novo;Java+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+PHP+%C2%B7+SQL" alt="Typing SVG" /> <br/>
+Email GitHub
 
-Software Developer | Full Stack Development | APIs & AI Integration
----
-
-## 🚀 About Me
-
+</div> <br/>
+🚀 Sobre mim
 Estudante de Técnico em Informática e desenvolvedor de software em formação, com foco em desenvolvimento full stack, integração de APIs e criação de aplicações web e desktop.
 
-Tenho experiência prática com Java, C#, JavaScript, PHP e SQL, além de desenvolvimento com React, React Native e Firebase em projetos acadêmicos e pessoais.
+Experiência prática com Java, C#, JavaScript, PHP e SQL, além de desenvolvimento com React, React Native e Firebase em projetos acadêmicos e pessoais.
 
-Atualmente, estou aprofundando meus conhecimentos em arquitetura de software, desenvolvimento de APIs, bancos de dados, automação e integração com ferramentas de inteligência artificial. Gosto de transformar ideias em projetos funcionais e aprender novas tecnologias através da prática.
----
+Atualmente aprofundando conhecimento em arquitetura de software, desenvolvimento de APIs, bancos de dados, automação e integração com ferramentas de inteligência artificial. Gosto de transformar ideias em projetos funcionais e aprender novas tecnologias na prática.
 
-## 💻 Tech Stack
+<br/>
+💻 Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,py,react,firebase,nodejs,tailwind,git,github,vscode&theme=dark" /> </div> <br/>
+📌 Projetos em destaque
+<div align="center"> <a href="https://github.com/riquesignor/conversational-hub"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=riquesignor&repo=conversational-hub&theme=dark&hide_border=true&description_lines_count=2" /> </a> <a href="https://github.com/riquesignor/Arbitra-margin-tracker"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=riquesignor&repo=Arbitra-margin-tracker&theme=dark&hide_border=true&description_lines_count=2" /> </a> <a href="https://github.com/riquesignor/weather-app"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=riquesignor&repo=weather-app&theme=dark&hide_border=true&description_lines_count=2" /> </a> <a href="https://github.com/riquesignor/Controle_Estoque"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=riquesignor&repo=Controle_Estoque&theme=dark&hide_border=true&description_lines_count=2" /> </a> </div>
+weather-app e Controle_Estoque estão em revisão de segurança.
 
-### Languages & Core
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React%20Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Tailwind%20CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend & Infrastructure
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-### [Arbitra Margin Tracker](https://github.com/riquesignor/Arbitra-margin-tracker)
-Plataforma de arbitragem de preços e otimização de margens. Análise em tempo real com algoritmos de margin optimization.
-- **Stack**: TypeScript, Node.js, Serverless
-- **Highlights**: Real-time margin calculation, price tracking, optimization engine
-
-### [Conversational Hub](https://github.com/riquesignor/conversational-hub)
-Sistema de hub conversacional para integração e orquestração de múltiplos canais de comunicação.
-- **Stack**: TypeScript, Node.js
-- **Highlights**: Multi-channel support, message orchestration, scalable architecture
-
-### [Weather App](https://github.com/riquesignor/weather-app) *(em revisão de segurança)*
-Desenvolvimento de aplicativo React Native com auxiliar de IA. Aplicação envolve múltiplas APIs de clima diversificadas.
-- **Stack**: React Native, TypeScript, AI Integration
-- **Highlights**: Real-time weather data, AI-assisted features
-
-### [Controle Estoque](https://github.com/riquesignor/Controle_Estoque) *(em revisão de segurança)*
-Gerenciador de estoque com foco em controle de inventário e rastreamento de produtos.
-- **Stack**: JavaScript, Database Management
-- **Highlights**: Inventory tracking, product management
-
----
-
-## 📊 GitHub Stats
-
-![Henrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riquesignor&theme=dark&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riquesignor&theme=dark&hide_border=true&layout=compact)
-
----
-
-## 🎯 Focus Areas
-
-* **Full Stack Development**: Desenvolvimento de aplicações web, mobile e desktop
-* **API Integration**: Integração com APIs e serviços externos
-* **Automation**: Automatização de tarefas e processamento de informações
-* **Artificial Intelligence**: Integração de ferramentas de IA em aplicações
-* **Software Architecture**: Aprendizado e aplicação de conceitos de organização e arquitetura de sistemas
-* **Database Development**: Modelagem, manipulação e integração com bancos de dados
-
-
----
-
-## 📬 Get In Touch
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rique.signor@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riquesignor)
-
----
-
-
-<div align="center">
-
-**Let's build something great together.**
+<br/>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=riquesignor&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquesignor&layout=compact&theme=dark&hide_border=true" height="165"/> <img src="https://streak-stats.demolab.com/?user=riquesignor&theme=dark&hide_border=true" width="600"/> </div> <br/>
+🏆 Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=riquesignor&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" /> </div> <br/>
+🐍 Contribuições
+<div align="center"> <!--START_SECTION:snake--> <img src="https://raw.githubusercontent.com/riquesignor/riquesignor/output/github-contribution-grid-snake.svg" width="100%"/> <!--END_SECTION:snake--> </div> <br/>
+🎯 Áreas de foco
+Full Stack Development — aplicações web, mobile e desktop
+API Integration — integração com APIs e serviços externos
+Automation — automatização de tarefas e processamento de informações
+Artificial Intelligence — integração de ferramentas de IA em aplicações
+Software Architecture — organização e arquitetura de sistemas
+Database Development — modelagem, manipulação e integração com bancos de dados
+<br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/> <div align="center">
+Vamos construir algo ótimo juntos.
 
 </div>
