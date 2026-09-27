@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Henrique&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%20APIs%20%26%20AI&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Henrique&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Inform%C3%A1tica%20%7C%20Aprendendo%20na%20pr%C3%A1tica&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;APIs+%26+AI+Integration;Sempre+aprendendo+algo+novo;Java+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+PHP+%C2%B7+SQL" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Inform%C3%A1tica+(Ensino+M%C3%A9dio+T%C3%A9cnico);Aprendendo+Full+Stack+na+pr%C3%A1tica;Curioso+por+IA+e+automa%C3%A7%C3%A3o;Java+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+PHP+%C2%B7+SQL" alt="Typing SVG" />
 
 <br/>
 
@@ -15,34 +15,38 @@
 
 ## 🚀 Sobre mim
 
-Estudante de Técnico em Informática e desenvolvedor de software em formação, com foco em **desenvolvimento full stack**, **integração de APIs** e criação de aplicações web e desktop.
+Tenho 17 anos e curso o Ensino Médio Técnico em Informática. Programar começou
+como curiosidade e virou hobby: gosto de sair da teoria da escola e testar
+ideias em projetos próprios, aprendendo boa parte na prática — pesquisando e
+quebrando a cara quando travo em algo.
 
-Experiência prática com **Java, C#, JavaScript, PHP e SQL**, além de desenvolvimento com **React, React Native e Firebase** em projetos acadêmicos e pessoais.
-
-Atualmente aprofundando conhecimento em **arquitetura de software**, desenvolvimento de APIs, bancos de dados, automação e integração com ferramentas de **inteligência artificial**. Gosto de transformar ideias em projetos funcionais e aprender novas tecnologias na prática.
+Já mexi com **Java, C#, JavaScript, PHP e SQL** na escola e em projetos
+pessoais, e venho experimentando **React, React Native e Firebase** por conta
+própria. Ultimamente tenho me interessado em entender como aplicações são
+organizadas por trás (APIs, bancos de dados) e em ferramentas de IA — nada
+avançado ainda, mais curiosidade que vira projeto de vez em quando.
 
 <br/>
 
-## 💻 Tech Stack
+## 💻 Tecnologias que venho usando
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,react,firebase,nodejs,tailwind,git,github,csharp,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,react,firebase,nodejs,tailwind,git,github,cs,vscode&theme=dark" />
 
 </div>
 
 <br/>
 
-## 📌 Projetos em destaque
+## 📌 Projetos
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [**Conversational Hub**](https://github.com/riquesignor/conversational-hub) | Hub conversacional (chatbot) full stack com integração de LLMs, múltiplas personas e anexos de imagem/PDF. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| [**Conversational Hub**](https://github.com/riquesignor/conversational-hub) | Chatbot full stack com integração de LLMs, múltiplas personas e anexos de imagem/PDF. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 | [**Arbitra Margin Tracker**](https://github.com/riquesignor/Arbitra-margin-tracker) | Plataforma de arbitragem de preços com cálculo de margem em tempo real. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 | [**Weather App**](https://github.com/riquesignor/weather-app) *(em revisão de segurança)* | App React Native com auxiliar de IA, combinando múltiplas APIs de clima. | ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [**Controle Estoque**](https://github.com/riquesignor/Controle_Estoque) *(em revisão de segurança)* | Gerenciador de estoque com controle de inventário e rastreamento de produtos. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [**NotificationHub**](https://github.com/riquesignor/NotificationHub) *(Em desenvolvimento)* | Sistema centralizado de notificações multi-canal (Push, Email, Telegram) com retry automático e rastreamento de delivery. | ![csharp](https://img.shields.io/badge/-csharp-F7DF1E?style=flat-square&logo=csharp&logoColor=black) |
-
+| [**NotificationHub**](https://github.com/riquesignor/NotificationHub) *(em desenvolvimento)* | Sistema centralizado de notificações multi-canal (Push, Email, Telegram) com retry automático e rastreamento de entrega. | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 <br/>
 
@@ -56,14 +60,14 @@ Atualmente aprofundando conhecimento em **arquitetura de software**, desenvolvim
 
 <br/>
 
-## 🎯 Áreas de foco
+## 🎯 O que venho estudando
 
-- **Full Stack Development** — aplicações web, mobile e desktop
-- **API Integration** — integração com APIs e serviços externos
-- **Automation** — automatização de tarefas e processamento de informações
-- **Artificial Intelligence** — integração de ferramentas de IA em aplicações
-- **Software Architecture** — organização e arquitetura de sistemas
-- **Database Development** — modelagem, manipulação e integração com bancos de dados
+- **Desenvolvimento full stack** — web, mobile e desktop, aprendendo na prática
+- **Integração de APIs** e serviços externos
+- **Automação** de tarefas simples
+- **Primeiros passos com IA** aplicada a projetos
+- **Organização de projetos** — ainda estudando conceitos de arquitetura
+- **Banco de dados** — modelagem e uso básico
 
 <br/>
 
@@ -71,6 +75,6 @@ Atualmente aprofundando conhecimento em **arquitetura de software**, desenvolvim
 
 <div align="center">
 
-**Vamos construir algo ótimo juntos.**
+**Bora trocar ideia e aprender juntos.**
 
 </div>
