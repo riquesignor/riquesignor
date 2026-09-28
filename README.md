@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre mim
 
-Tenho 17 anos e curso o Ensino Médio Técnico em Informática. Programar começou
+Tenho 17 anos e curso o ensino médio integrado ao curso T.I. Programar começou
 como curiosidade e virou hobby: gosto de sair da teoria da escola e testar
 ideias em projetos próprios, aprendendo boa parte na prática — pesquisando e
 quebrando a cara quando travo em algo.
