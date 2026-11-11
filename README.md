@@ -78,6 +78,5 @@ avançado ainda, mais curiosidade que vira projeto de vez em quando.
 
 <div align="center">
 
-**Bora trocar ideia e aprender juntos.**
 
 </div>
